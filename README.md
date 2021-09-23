@@ -5,7 +5,7 @@
 <br />
 📆 I'm 18 years old <br />
 <br />
-💻 I'm FrontEnd Developer. <br />
+💻 I'm FrontEnd Developer. Trying to get a FullStack Dev.<br />
 <br />
 🚀 I'm working at <code><a href='https://github.com/Union6'>Union6</a></code>. <br />
 <br />
