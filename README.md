@@ -7,8 +7,6 @@
 <br />
 💻 I'm FrontEnd Developer. Trying to get a FullStack Dev.<br />
 <br />
-🚀 I'm working at <code><a href='https://github.com/Union6'>Union6</a></code>. <br />
-<br />
 🎓 I'm studying at <code><a href='https://ifrs.edu.br/osorio/'>IFRS - campus Osório</a></code>. <br />
 <br />
 💾 Currently working with: <code><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/> <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/> <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/> </code> <br />
