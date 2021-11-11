@@ -3,7 +3,7 @@
 ### 🔥 About me 🔥
 📍 I'm from Osório, Rio Grande do Sul, Brazil. <br />
 <br />
-📆 I'm 18 years old <br />
+📆 I'm 18 years old. <br />
 <br />
 💻 I'm FrontEnd Developer. Trying to get a FullStack Dev.<br />
 <br />
