@@ -5,7 +5,7 @@
 <br />
 📆 I'm 18 years old. <br />
 <br />
-💻 I'm FrontEnd Developer. Trying to get a FullStack Dev.<br />
+💻 I'm FullStack Dev.<br />
 <br />
 🎓 I'm studying at <code><a href='https://ifrs.edu.br/osorio/'>IFRS - campus Osório</a></code>. <br />
 <br />
