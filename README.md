@@ -5,9 +5,9 @@
 <br />
 📆 I'm 19 years old. <br />
 <br />
-💻 I'm FullStack Dev at Fazcomex.<br />
+💻 I'm FullStack Dev.br />
 <br />
 💾 Currently working with: HTML, CSS, JavaScript, PHP and React. <br />
 <br />
-📚 Skills: HTML, CSS, JS, TS, PHP, Python, React, NextJS, Ant Design, Material UI, etc.  <br />
+📚 Skills: HTML, CSS, JS, TS, PHP, Python, React, NextJS, React Native, AWS, JQuery, CakePhp, Ant Design, Material UI, Bootstrap, etc.  <br />
 <br />
