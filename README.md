@@ -5,7 +5,7 @@
 <br />
 📆 I'm 19 years old. <br />
 <br />
-💻 I'm FullStack Dev.br />
+💻 I'm FullStack Dev. <br />
 <br />
 💾 Currently working with: HTML, CSS, JavaScript, PHP and React. <br />
 <br />
