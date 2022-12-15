@@ -11,3 +11,7 @@
 <br />
 📚 Skills: HTML, CSS, JS, TS, PHP, Python, React, NextJS, React Native, AWS, JQuery, CakePhp, Ant Design, Material UI, Bootstrap, etc.  <br />
 <br />
+
+[![card](https://github-readme-stats.vercel.app/api?username=EduardoColissi&theme=Merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br /> 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoColissi&hide=html&layout=compact=true&theme=Merko)](https://github.com/anuraghazra/github-readme-stats)
