@@ -1,13 +1,13 @@
 <div align="center">
   
-### 🔥 Hi there!👋 I'm Eduardo Colissi! 🔥
+### 🔥 Hi there!👋 I'm Eduardo! 🔥
 
 ### 🔥 About me 🔥
-📍 I'm from Osório, Rio Grande do Sul, Brazil but actually I'm living in Porto Alegre. <br />
+📍 I'm from Porto Alegre, Rio Grande do Sul, Brazil. <br />
 <br />
 📆 I'm 19 years old. <br />
 <br />
-💻 I'm FullStack Web & Mobile Dev. <br />
+💻 I'm FullStack Web & Mobile Developer and Computer Science Student. <br />
 <br />
 ### 📚 Main Skills:
 <br />
