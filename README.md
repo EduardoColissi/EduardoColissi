@@ -2,7 +2,7 @@
   
 ### 🔥 Hi there!👋 I'm Eduardo! 🔥
 
-### 🔥 About me 🔥
+### 🔥 About me:
 📍 I'm from Porto Alegre, Rio Grande do Sul, Brazil. <br />
 <br />
 📆 I'm 19 years old. <br />
