@@ -1,6 +1,6 @@
 <div align="center">
   
-### 🔥 Hi there!👋 I'm Eduardo! 🔥
+### 🔥 Hi there!👋 I'm Eduardo!
 
 ### 🔥 About me:
 📍 I'm from Porto Alegre, Rio Grande do Sul, Brazil. <br />
