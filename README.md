@@ -5,7 +5,7 @@
 ### 🔥 About me:
 📍 I'm from Porto Alegre, Rio Grande do Sul, Brazil. <br />
 <br />
-📆 I'm 19 years old. <br />
+📆 I'm 20 years old. <br />
 <br />
 💻 I'm FullStack Web & Mobile Developer and Computer Science Student. <br />
 <br />
