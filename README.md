@@ -1,6 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EduardoColissi/cd02da9576fa4e09450535240b201fd6/raw/3eef19350e4cc2a007be945d35f7a77fdc5d1d6f/githubcard.svg" />
-
 <h1 align="left">Hi dear, I'm Eduardo Colissi! 🚀 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardoColissi&color=green" alt="Profile views" /> </p>
 
 - 🔥 Backend Developer
 
