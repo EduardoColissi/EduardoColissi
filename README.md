@@ -1,36 +1,31 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EduardoColissi/cd02da9576fa4e09450535240b201fd6/raw/3eef19350e4cc2a007be945d35f7a77fdc5d1d6f/githubcard.svg" />
 
 <h1 align="left">Hi dear, I'm Eduardo Colissi! 🚀 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EduardoColissi&color=green" alt="Profile views" /> </p>
 
+- 🔥 Backend Developer
 
-- 🔥 Mid-level Web and Mobile  FullStack Developer
-
-- 🔭 I’m currently working on [NewSis](https://www.linkedin.com/company/newsis-oficial/)
+- 🔭 I’m currently working on [Deskfy](https://www.linkedin.com/company/deskfy/)
 
 - 🎮 I`m learning game development on Unity Game Engine
 
-- 📚 Computer Science Student
+- 📚 Computer Science Student 
 
-- 💬 Ask me about **JavaScript, TypeScript, C#, Node.JS, React, React Native**
+- 💬 Ask me about **Typescript, Node, Nest, Java**
 
 - 👨‍💻 More at [LinkedIn](https://www.linkedin.com/in/eduardo-colissi-7b873321b/)
 
 - ## 🛠 &nbsp;Tech Stack
-
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Nest](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
