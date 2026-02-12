@@ -3,7 +3,7 @@
 
 - 🔥 Backend Developer
 
-- 🔭 I’m currently working on [Deskfy](https://www.linkedin.com/company/deskfy/)
+- 🔭 I’m currently working on [FIERGS](https://www.linkedin.com/company/fiergs)
 
 - 🎮 I`m learning game development on Unity Game Engine
 
